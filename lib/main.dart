@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
           child: RaisedButton(
 child: Text("gönder"),
 onPressed: ()=>{
-debugPrint("tıklandı"),
+debugPrint("tıklandı")
 
 },
           ),
