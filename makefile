@@ -1,4 +1,4 @@
 git:
 	git add .
 	git commit -m "$m"
-	git push -u flutter master
+	git push -u flutter $b
