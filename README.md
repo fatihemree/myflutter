@@ -1,1 +1,2 @@
-#README GİT
+# README GİT
+**fatih emre kalem**
